@@ -1,1 +1,1 @@
-base linux linux-firmware base-devel xfce4 xfce4-goodies lightdm lightdm-gtk-greeter xorg vim neofetch networkmanager git
+base linux linux-firmware base-devel xfce4 xfce4-goodies lightdm lightdm-gtk-greeter xorg vim neofetch networkmanager git scrot openssh
