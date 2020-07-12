@@ -1,0 +1,9 @@
+intel + ati:
+enable multilib
+mesa lib32-mesa 
+
+extra:
+xf86-video-intel
+xf86-video-ati
+
+nvidia not here because that makes me angry
